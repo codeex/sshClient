@@ -33,7 +33,4 @@ ERROR(S):
 ```
 
 # site
-access [webmote site](https://webmote.blog.csdn.net)
-weixin: webmote31
-qq:121941663
-
+access [codeex](https://webmote.blog.csdn.net)
