@@ -1,6 +1,11 @@
 # sshClient
 The tool is ssh and scp ,may use jenkins for windows script
 
+中文描述：这款工具主要运行在Windows上，通过ssh和sftp 向远程linux主机发送文件和运行shell命令。
+          主要用途应该是自动化运维，我是在Jenkins中运行它，以便把windows slave节点的文件拷贝到Linux中，然后再执行一些指定的脚本，比如解压等。
+          
+          其主要依赖是.net core 3.1运行环境，其他的应该均不需要。
+
 # useage
 ```shell
 sshClient 1.0.0
